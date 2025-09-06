@@ -12,6 +12,14 @@
 
 芯片
 
+docker
+
+NAS
+
+github
+
+大模型
+
 英伟达
 NVIDIA
 黄仁勋
